@@ -1,9 +1,9 @@
 # Fashion-MNIST
 
-### Fashion MNIST Classification using different ML models and Dimension reduction using PCA.
+## Fashion MNIST Classification using different ML models and Dimension reduction using PCA.
 
 
-### Model Comparisson with and without PCA:
+### Model Comparisson Accuracy Scores with and without PCA:
 
 Model Name | Without Pca | With Pca
 ------------ | ------------- | -------------
@@ -15,6 +15,6 @@ Decision Tree | 79% | 77%
 Random Forest | 85.3% | 86.2%
 
 
-For an easy comparison of the results of all the models, go to the bottom of the notebook.
+### For an easy comparison of the results of all the models, go to the bottom of the notebook.
 
 
