@@ -5,7 +5,7 @@ Fashion MNIST Classification using different ML models and Dimension reduction u
 
 ### Model Comparisson Accuracy Scores with and without PCA:
 
-Model Name | Without Pca | With Pca
+Model Name | Without PCA | With PCA
 ------------ | ------------- | -------------
 ConvNet | 90% | 
 KNN | 85.5% | 86%
