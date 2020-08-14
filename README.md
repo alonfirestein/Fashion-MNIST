@@ -4,8 +4,9 @@
 
 
 ### Model Comparisson with and without PCA:
+
 Model Name | Without Pca | With Pca
------------- | -------------
+------------ | ------------- | -------------
 ConvNet | 90% | 
 KNN | 85.5% | 86%
 AdaBoost | 53.7% | 58.3%
