@@ -1,6 +1,6 @@
 # Fashion-MNIST
 
-## Fashion MNIST Classification using different ML models and Dimension reduction using PCA.
+Fashion MNIST Classification using different ML models and Dimension reduction using PCA.
 
 
 ### Model Comparisson Accuracy Scores with and without PCA:
