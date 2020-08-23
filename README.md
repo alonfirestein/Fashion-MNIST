@@ -34,6 +34,6 @@ Decision Tree | 79% | 77%
 Random Forest | 85.3% | 86.2%
 
 
-### For an easy comparison of the results of all the models using SEABORN go to the bottom of the jupyter notebook.
+#### For an easy comparison of the results of all the models using SEABORN go to the bottom of the jupyter notebook.
 
 
