@@ -3,9 +3,10 @@
 ### As part of a first year university school project, we were tasked with Fashion MNIST Classification using different ML models and dimension reduction using PCA.
 
 The Fashion-MNIST clothing classification problem is a new standard dataset used in computer vision and deep learning. It's a dataset of Zalando’s article images consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28×28 grayscale image, associated with a label from 10 classes. Fashion-MNIST is intended to serve as a direct drop-in replacement of the original MNIST dataset for benchmarking machine learning algorithms.
-We used the Fashion MNIST given that the original MNIST is too easy and overused
+We used the Fashion MNIST given that the original MNIST is too easy and overused.
 
 The 10 classes representing each type of clothing are:
+
 0. T-shirt/top
 1. Trouser
 2. Pullover
