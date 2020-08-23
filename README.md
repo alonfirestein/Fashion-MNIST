@@ -18,6 +18,8 @@ We used the Fashion MNIST given that the original MNIST is too easy and overused
 8. Bag
 9. Ankle boot
 
+
+
 Using different ML models and using PCA for the first time, these were the final results:
 
 ### Model Comparisson Accuracy Scores with and without PCA:
