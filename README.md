@@ -5,7 +5,7 @@
 The Fashion-MNIST clothing classification problem is a new standard dataset used in computer vision and deep learning. It's a dataset of Zalando’s article images consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28×28 grayscale image, associated with a label from 10 classes. Fashion-MNIST is intended to serve as a direct drop-in replacement of the original MNIST dataset for benchmarking machine learning algorithms.
 We used the Fashion MNIST given that the original MNIST is too easy and overused.
 
-The 10 classes representing each type of clothing are:
+###### The 10 classes representing each type of clothing are:
 
 0. T-shirt/top
 1. Trouser
@@ -32,6 +32,6 @@ Decision Tree | 79% | 77%
 Random Forest | 85.3% | 86.2%
 
 
-### For an easy comparison of the results of all the models using SEABORN go to the bottom of the notebook.
+### For an easy comparison of the results of all the models using SEABORN go to the bottom of the jupyter notebook.
 
 
