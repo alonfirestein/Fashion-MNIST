@@ -28,8 +28,8 @@ Model Name | Without PCA | With PCA
 ------------ | ------------- | -------------
 ConvNet | 90% | 
 KNN | 85.5% | 86%
-AdaBoost | 53.7% | 58.3%
-Naive Bayes | 58.6% | 77%
+AdaBoost | 84.5% | 81.4%
+Naive Bayes | 58.5% | 77%
 Decision Tree | 79% | 77%
 Random Forest | 85.3% | 86.2%
 
